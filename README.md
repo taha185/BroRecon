@@ -110,16 +110,13 @@ Random Delays         ▰▰▰▰▰▰▰▰░░ 80%
 ```
 
 ---
+# RoadMap 🗺️
 
-## 🗺️ Roadmap
+|--------------------------|
 
-| Version | Features                          | ETA     |
-|---------|-----------------------------------|---------|
-| v1.1    | Tor support                       | Q2 2024 |
-| v1.2    | 50+ platform expansion            | Q3 2024 |
-| v2.0    | GUI interface                     | Q4 2024 |
+| Version 1.0 |  +10 platforms |
 
----
+|--------------------------|
 
 ## 🤝 Contributing
 
