@@ -1,4 +1,5 @@
-<img src="assets/icon.png">
+<img src="assets/Untitled2_20250314060901.png" width = "300">
+
 # 🔍 BroRecon - OSINT Ninja Tool 🔍
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python)](https://python.org)
