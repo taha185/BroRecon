@@ -1,4 +1,4 @@
-
+<img src="assets/icon.png">
 # 🔍 BroRecon - OSINT Ninja Tool 🔍
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python)](https://python.org)
