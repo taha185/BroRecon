@@ -52,7 +52,7 @@ graph LR
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/Taha185/SocialRecon-Pro.git && cd SocialRecon-Pro
+git clone https://github.com/Taha185/BroRecon.git && cd BroRecon 
 ```
 
 2. **Install requirements**
